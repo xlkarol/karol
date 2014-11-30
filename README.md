@@ -1,4 +1,3 @@
 linia 1
-linia 2
-linia 3
-linia 5
+linia 200
+Nowa linia
